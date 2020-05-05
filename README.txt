@@ -2,7 +2,7 @@ Elizabeth Jolly
 This was created for a class. Because of that all references to the class have been removed. 
 
 Spring 2020
-Objective:  Use a dynamic programming algorithm to efficiently calculate the edit distance between pairs of words. 
+Objective:   efficiently calculate the edit distance between pairs of words. 
 A word is defined to be a maximal sequence of letters from upper and lower case 'a' to 'z'. 
 
 To Run: 
